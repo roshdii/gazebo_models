@@ -1,5 +1,18 @@
-This repository holds the [Gazebo](http://gazebosim.org) model database.
+# REPOSITORY MOVED
 
-Learn more about the database [here](http://gazebosim.org/tutorials?tut=model_structure&cat=build_robot).
+## This repository has moved to
 
-Learn how to contribute models [here](http://gazebosim.org/tutorials?tut=model_contrib&cat=build_robot).
+https://github.com/osrf/gazebo_models
+
+## Issues and pull requests are backed up at
+
+https://osrf-migration.github.io/gazebo_models-gh-pages/#!/osrf/gazebo_models
+
+## From May 15th to May 31st 2020, this read-only mercurial repository will be at
+
+https://bitbucket.org/osrf-migrated/gazebo_models
+
+## More info at
+
+https://community.gazebosim.org/t/important-gazebo-and-ignition-are-going-to-github/533
+
